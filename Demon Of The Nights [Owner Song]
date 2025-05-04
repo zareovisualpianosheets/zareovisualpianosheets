@@ -10,19 +10,20 @@ Transpose By : -3
 5 [ryi] [ryi] 5 [ryi] [ryi]
 4 [tip] [tip] 4 [tip] [tip]
 3 [ruo] [ruo] 3 [ruo] [ruo]
-[qetup] [ru] [ey] [ru] [ti] - [ru]
-[qetup] [ru] [ey] [ru] [wt] - [0r]
-[qetup] [ru] [ey] [ru] [ti] - [ru]
+5 8 w r u o a d h k x v m n v l h f s o u t e q [480] - - -
+[qetup] [ru] [ey] [ru] [ti] - [ru] 6
+[qetup] [ru] [ey] [ru] [wt] - [0r] 5
+[qetup] [ru] [ey] [ru] [ti] - [ru] 6
 [qetup] [ru] [ey] [ru] [yo] - [ru] [ey] [ru] - - -
 [8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf]
 [8qetupj] [ruf] [eyd] [ruf] [wts] - [0ra] 
 [8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf]
 [8qetupj] [ruf] [eyd] [ruf] [yoh] - [ruf] [eyd] [ruf] - - -
-[xvm] - - [zcn] m n v x l h f s p  i y r e 
-[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx]
-[48qetipjb] [rufx] [eydz] [rufx] [wtsl] 5 [0rak]
-[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx]
-[48qetupjb] [rufx] [eydz] [rufx] [yohv] 5 8 w r u o a d h k x v m n v l h f s o u t e  [rufx] [eydz] [rufx] - - -
+[xvm] - - [zcn] m n v x l h f s p  i y r e [480]
+[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx] [370] 
+[48qetipjb] [rufx] [eydz] [rufx] [wtsl] 5 [0rak] [480] 
+[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx] [370]
+[48qetupjb] [rufx] [eydz] [rufx] [yohv] 3 5 8 w r u o a d h k x v m n v l h f s o u t e  [rufx] [eydz] 5 7 9 q e t [rufx] r w 0 8 6 - - -
 
 No Notebinds
 Transpose By : -3
@@ -37,11 +38,11 @@ Transpose By : -3
 [qetup] [ru] [ey] [ru] [ti] - [ru]
 [qetup] [ru] [ey] [ru] [yO] - [ru] [ey] [ru] - - -
 [8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf] 6
-[8qetupj] [ruf] [eyd] [ruf] [Wts] - [0ra] 5
+[8qetupj] [ruf] [eyd] [ruf] [Wts] - [0ra] %
 [8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf] 6
 [8qetupj] [ruf] [eyd] [ruf] [yOH] - [ruf] [eyd] [ruf] - - -
 [xVm] - - [zcn] m n V x l H f s p  i y r e - - -
-[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx]
-[48qetipjb] [rufx] [eydz] [rufx] [Wtsl] % [0rak]
-[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx]
-[48qetupjb] [rufx] [eydz] [rufx] [yOHV] % 8 W r u O a d H k x V m n V l H f s o u t e  [rufx] [eydz] % 7 9 q e t [rufx] r W 0 8 6 - - -
+[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx] [370] 
+[48qetipjb] [rufx] [eydz] [rufx] [Wtsl] % [0rak] [48q]
+[48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx] [370]
+[48qetupjb] [rufx] [eydz] [rufx] [yOHV] 3 % 8 W r u O a d H k x V m n V l H f s o u t e  [rufx] [eydz] % 7 9 q e t [rufx] r W 0 8 6 - - -
