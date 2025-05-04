@@ -30,14 +30,15 @@ Transpose By : -3
 % [ryi] [ryi] % [ryi] [ryi]
 4 [tip] [tip] 4 [tip] [tip]
 3 [ruO] [ruO] 3 [ruO] [ruO]
-% 8 W r u O a d H k x V m n V l H f s o u t e q
+% 8 W r u O a d H k x V m n V l H f s o u t e q [480] - -
+
 [qetup] [ru] [ey] [ru] [ti] - [ru]
 [qetup] [ru] [ey] [ru] [Wt] - [0r]
 [qetup] [ru] [ey] [ru] [ti] - [ru]
 [qetup] [ru] [ey] [ru] [yO] - [ru] [ey] [ru] - - -
-[8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf]
-[8qetupj] [ruf] [eyd] [ruf] [Wts] - [0ra] 
-[8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf]
+[8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf] 6
+[8qetupj] [ruf] [eyd] [ruf] [Wts] - [0ra] 5
+[8qetupj] [ruf] [eyd] [ruf] [tig] - [ruf] 6
 [8qetupj] [ruf] [eyd] [ruf] [yOH] - [ruf] [eyd] [ruf] - - -
 [xVm] - - [zcn] m n V x l H f s p  i y r e - - -
 [48qetupjb] [rufx] [eydz] [rufx] [tigc] 6 [rufx]
