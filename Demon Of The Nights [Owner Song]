@@ -9,8 +9,12 @@ Transpose By : -3
 6 [etu] [etu] 6 [etu] [etu]
 5 [ryi] [ryi] 5 [ryi] [ryi]
 4 [tip] [tip] 4 [tip] [tip]
-3 [ruo] [ruo] 3 [ruo] [ruo]
-5 8 w r u o a d h k x v m n v l h f s o u t e q [480] - - -
+3 [ruo] [ruo] 3 [ruo] [ruo] - -
+3 6 [etu] [etu] 6 [etu] [etu]
+6 5 [ryi] [ryi] 5 [ryi] [ryi]
+5 4 [tip] [tip] 4 [tip [tip] 
+[48] [30] --- [30] [4q] [5w]
+8 w r u o a d h k x v m n v l h f s o u t e q [480] - - -
 [qetup] [ru] [ey] [ru] [ti] - [ru] 6
 [qetup] [ru] [ey] [ru] [wt] - [0r] 5
 [qetup] [ru] [ey] [ru] [ti] - [ru] 6
@@ -37,8 +41,12 @@ Transpose By : -3
 6 [etu] [etu] 6 [etu] [etu]
 % [ryi] [ryi] % [ryi] [ryi]
 4 [tip] [tip] 4 [tip] [tip]
-3 [ruO] [ruO] 3 [ruO] [ruO]
-% 8 W r u O a d H k x V m n V l H f s o u t e q [480] - -
+3 [ruO] [ruO] 3 [ruO] [ruO] - -
+3 6 [etu] [etu] 6 [etu] [etu]
+6 % [ryi] [ryi] % [ryi] [ryi]
+% 4 [tip] [tip] 4 [tip [tip] 
+[48] [30] --- [30] [4q] [%W] - 
+8 W r u O a d H k x V m n V l H f s o u t e q [480] - -
 
 [qetup] [ru] [ey] [ru] [ti] - [ru]
 [qetup] [ru] [ey] [ru] [Wt] - [0r]
