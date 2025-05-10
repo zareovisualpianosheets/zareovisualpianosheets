@@ -1,0 +1,115 @@
+-Intro'
+4 [qet] 4 4 [qet]
+3 [wry] 3 3 0 3 [wry] 3
+2 [eyi] 2 2 9 2 [eyi] 2
+1 [wtu] 1 1 8 1 8 [wtu] 1
+4 [qet] 4 4 8 4 [qet] 4
+3 [wry] 3 3 0 3 [wry] 3
+2 [eyi] 2 2 9 2 [eyi] [29] [18] | [18] [29] [30] [30] 1 [30]
+
+'Creative uno'
+[4l] k l k [qetj] [4h] 8 4 j [8h] j h [qetg] [8f]
+[158g] f g f [wtud] [1s] 8 [1s] 8 [wtu] [18]
+[29] l k l k [eyij] [2h] 9 2 j h [9j] h [eyig] [29h]
+[30j] h j k [ruo] [3l] 0 [3l] 0 [ruo] 3
+
+[4l] k l k [qetj] [4h] 8 4 j [8h] j h [qetg] [8f]
+[158] g f g f [wtud] [1s] 8 1 s [8s] d s [wtua] [18]
+[29l] k l k [eyij] 2 k 9 [2l] [9z] [eyix] [29c]
+[30v] c v c x [ruo] [3c] 0 [3v] 0 [uob] r
+
+'CODA'
+[18qeiplb] [46tj] [1q] [ohkv] [4e] t [68igjc] [6tohkv] [4e] [1q] [igjc] 4 [tufhx] 6 [8i] g [ydz]
+t [46sl] e
+[1q] [138sfhl] 5 [ws] [tfg] [uh] x t v b w n 8 [5m] [13] [vb] x w [thl] [ug] f t [ws] o [8u] y [135t]
+[29] [46pjlb] e [yohkv] i a [igjc] y [eohkv] 9 [246] [9igjc] [ey] [ohkv] i p [ijb] y [tk] n e
+[1358klnm] [wtusfhl] [wtusfhl] [xvm] [1358] [wtusfl] [158xvm] x l h f s o u [wt] u t r w [8i] [6t]
+[14pjlb] q [4eohkv] t [8ic] g [6t] [4e] [1qohkv] 4 [1tigjc] 6 [8i] [ufhx] [6t] [4e] [ydgz] [1qsl] 8
+[1358s] [1fhl] [ws] [tf] h u [tx] v w [8n] [5xv] [1358xm] v [wx] [tl] [uh] [tf] [ws] o 8 u 5 [3t]
+[2469] [iplb] e y [iohkv] p [igjc] y [tohkv] e 9 [246igjc] 9 e [yokv] h i y e [jb] 9 6 [49kn] [26]
+
+'Melon'
+[1358lm] w t [us] f h x [vm] x l h g f [us] t w 8 [46] 8
+q [et] s i g j c [bm] [lc] [gj] s i [et] q 8 [135] 8 w t [us] f h x [vm] [lx] [fh] s u t w [78] [46] 8 q e t [is] [gj] c [bm] c l j g
+[is] [et] [2469] [ey] [pd] [ig] j z [cb] z [jl] g d [ip] y 9 6 [1358] w t u s f h x v m |
+
+-- Octave 1+ --
+'Creative secundo'
+[4l] k l k [qetj] 4 h 8 4 j [8h] j h [qetg] - [8f]
+[158] g f g f [wtud] [1s] 8 [1s] - 8 - [wtu] - 1 -
+[29l] k [kl] [eyij] [2h] 9 2 j [9h] j h [eyig] [29h]
+[30j] h j [uok] r [3l] 0 3 l 0 [ruo] 3
+
+[4l] k l k [qet] j [4h] 8 4 j [8h] j h [qet]
+g [8f]
+[158g] f g f [wtud] [1s] 8 [1s] 8 [wtu] [18]
+[29l] k l k [eyij] [2k] 9 [2l] [9z] [eyix] [29c]
+[30] v c v c [ruox] [3c] 0 [3v] 0 [ruob]
+
+'MrBeeCool singin'
+[qe] t [iv] |
+[0u] [9y] [8t] [18] c v [wtu] b n b v
+[2c] [eyi] [ip] c v c x [ey] z
+3 l k j h j [ruo] h j h j h [rupj] h j h j h [ruj] [oh] [jk] s
+
+[48sgjl] s [qetigjl] [4s] [8gjl] 4 s [8gj] s [qet] [gjl] [8s]
+[1358fhl] s [tf] [wuhl] [1s] [8fhl] 1 s [8fh] l 1 s [tufh] [wl] [1s] 8
+[29dgjz] z [eyidgj] [2dg] [9jz] 2 d g 9 j [eyigjz] [269g] [0kx]
+[357fh]
+
+-- Octave -2 --
+[1358sfh] |
+-- Octave +1 --
+'CODA 2'
+[1468qetipjb] [1q] [ohkv] [4e] [6qt] [8igjc] [6t] [4eohkv] [1q] [igjc] e 4 [6tufhx] 6 [8q] [yidgz] [6t] [sl] [4e] [1q]
+[1358hsfl] [ws] t f [ug] h x t [rv] [wb] [8n] m [135b] [8v] x [wl] [th] g [uf] [ts] [wo] u 8 7 [35t]
+[2469ohkv] e [yigjc] p [ohkv] i [ypjlb] e 9 [6ohkv] [24] 9 e [yigjc] i y [ejb] 9 [6n] [4k] 2
+[1358lm] [wtuf] [shl] [tsfhl] [wu] [5xvm] [18] [wtusfl] [15] [8xm] v x l h f s o u t w u t r w {56890ib} =glissando=
+[14thjkl] [qe] [4tohkv] [8i] [6tgjc] e [1qhkv] o e 4 [igjc] t 6 [ufhx] [8i] [6t] [ydgz] [4e] [12q] [8sl]
+[1358sfhl] w s t f [ugh] [tx] w v [8b] n 5 [13m] 8 b v [wx] [tl] [uh] [tfg] [ws] [8op] u [57] 3 [1t]
+[2469plb] [0j] e [yh] [okv] i p [igjc] y [tohkv] e 9 [246igjc] e [yokv] i [pb] j i y [tkn] e
+[58lm] [13] [wl] [ts] [ufh] t [wx] v [8n] [5m] [13v] [8x] l [wh] [tg] f [us]
+[wtuo] [8t] [35] 1 8 w [ts] u w 8
+[46sgjl] 8 q e t [ij] [tsgl] e q 8 6 4 [8hk] a q e [tsl] i t [edz] q 8 [6ak] 4
+[1358sfhl] w [ts] f [ug] h [tx] w v [8b] 5 n [1358xm] [wt] [pj] u [wt] [ak] 8 [35] [1sl]
+[2469dgjz] e y i a [sfhl] i y [et] 9 [6j] [249dgz] e [ysfl] i [yadk] e 9
+[357h] [0sfl] r [uhz] [dk] o d [sfl] o u [rdhz] k 9 [57fjx] [9b] w [rdhzv] y o [rf] [wsl] 9 [dl] [57]
+[48lcm] q [esl] t i t [cbm] e q 8 [6sl] 4 8 [cm] [lb] q e t [isl] t e [qlcbm] 8 [6sl] 4 [58xm] [13v] w [sfl] t u [txvm] w 8 [5sfl] 3 [15] [38xvm] [wl] [tsfh] u [tm]
+[wxv] 8 [sdl] [35] 1 [246cb] [9z] e [ydgjl] i a [zcb] i y [edgj] 9
+[2469zcb] e y [dgj] i y e [zb] [9c] 6 [249dl]
+
+'Epik Melon'
+[1358sfhl] w t u t u s [fx] [hj] x [vm]
+x k h g f [os] [1q] [46et] [8i] s [6g] j c [bm] c l [gj] [os] u t [135] 8 [wt] [us] f h x v x [vn] x o y t [6o] 4 8 q [ets] [ig]
+j c [bm] c l j g s p [246] 9 [ey] d [eig] j z c b [ey] 9 6
+
+-- Octave +1 --
+[hkz] 4 [1358sfhl]
+[dhkz] - [wtul] [sfh] [dhkz] [uosfhl] [dhkz] [wtuh] [sfl] [dhkz] [18fhl] [5s] |
+
+-- Octave -2 --
+[58wtu] |
+wait...
+-- Octave: +2 --
+[4l] [tk] l k [ij] [ph] [sj] h j h g f
+8 g [wf] g f [td] [us] [os] |
+[9l] [ek] l k [yj] [ih] [pj] h j h g h
+[0j] [rh] j [uk] [ol] [al] |
+
+[4l] [8k] l k [qj] [eh] [ipj] h j h g f 1 g
+[8f] g f [wd] [ts] [us] s d a
+[2] [9k] l k [ej] k y [ip] l z x c
+[3v] [0c] v c [rux] c [ov] b |
+
+-- Octave +1 --
+'MrBeeCool's mystery...'
+[4sl] 8 [qahk] e [ts] [jl] i x [tf] [8sl] - [df] h [5kz] 9
+[wx] r [hc] y o x y 9 f h
+[6lx] 0 [ez] t [ux] p [uz] 0 [df] [hz] [5k] 9
+[wx] r [yz] o a y 9
+[4tus] p 8 [qd] e f i
+[ts] 8 s f h 1 l 5 [8z] w [tx] u [tv] 8 |||
+
+[4c] 8 q e t i s g j h g f q [et] s [ig] j |
+-- Octave -2 --
+[8qet] |
