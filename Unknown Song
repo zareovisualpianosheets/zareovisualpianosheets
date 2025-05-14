@@ -1,14 +1,19 @@
-Transposition +4 or +6 
+Transposition +6
 4 8 q e t e q 8 4 8 q e t e q 8 4 8 q e t e q 8 4 8 q e t e q 8
 5 9 w r y r w 9 5 9 w r y r w 9 5 9 w r y r w 9 5 9 w r y r w 9
 1 8 w t u t w 8 1 8 w t u t w 8 1 8 w t u t w 8 1 8 w t u t w 8
 [4fx] 8 q e [tfx] e q 8 4 8 q e [tgc] [efx] [qgz]
 [5wryfx] 9 w r [yfhx] r w 9 5 9 w r [yfx] [rhv] [wgc]
 [18sl] w t [ufx] t w 8 1 8 w t [ufx] t w 8 1 8 w t [ufx] t w
-3 7 W r [ufx] r W 7 3 7 W r [ujb] [rhv] [Wgc] [7sl]
-[18wtufx] 18wtuosfhxvmvxlhfsouteq
-[48etufx] [48] [48] [48etufx] [48] [48] [48etugc] [48fx] [48sl]
-[59wryfx] [59] [59] [59wryfx] [59] [59] [59wryfx] [59hv] [59gc]
-[18wtufx] [18] [18] [18wtuosf] [18] [18gc] [18wtufx] [18] [18fx]
-[37Wru] [37] [37] [37Wruoaf] [37] [37gc] [37Wrufx] [37gc] [37fx]
-[48qetfx] [fx] [fx] {48qetuosfhx} [fx] [48fx][48] [qetfx] [fx] [sl]
+3 7 W r [ufx] r W 7 3 7 W r [ujb] [rhv] [Wgc] [7sl] - - -
+[18wtufx] - - - 18wtuosfhxvmvxlhfsouteq
+[48etufx] q [48] q [48] q [48etufx] q [48] q [48] q [48etugc] q [48fx] q [48sl] q
+[59] w [59] w [59wryfx] w [59] w [59] w [59wryfx] w [59hv] w [59gc] w
+[18wtufx] w[18] w [18] w [18wtuosf] w [18] w [18gc] w [18wtufx] w [18] w [18fx] w
+[37Wru] W [37] W [37] W [37Wruoaf] W [37] W [37gc] W [37Wrufx] W [37gc] W [37fx] W
+[48qetfx] q [fx] q [fx] q [48qetfx] q [fx] q [fx] q [48qetfx] q [gc] q [sl] q
+[59wryfx] w [fx] w [fx] w [59wryfx] w [fx] w [fx] w [59wryfx] w [gc] w [sl] w
+[18wtufx] w [fx] w [fx] w [18wtufx] w  [fx] w [fx] w [18wtufx] w [fx] w [sl]
+[37Wrudz] W [dz] W [dz] W [37Wrudz] W [dz] W [dz] W [37Wrudz] W [dz] - - -
+1 8 w t u t w 8 1 8 w t u t w 8 1 8 w t u t w 8 1 8 w t u t w t u t w t u o s o s f s f s f h f h x f h x v m n v x l h f s o u t e q 8 5 1
+- - - [18wtuos]
