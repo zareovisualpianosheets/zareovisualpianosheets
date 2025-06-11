@@ -1,36 +1,29 @@
 Transpose by: -8 
 Tempo: 120 BPM
-[eup] s - u - p - s -
-u t T p, s - [uV:u] :i - p -
-s - [wu] - p - s -
-u - p - s-o - u - p -
-s - u - p - s -
-[qi] - p - s - i :u p -
-s - [2i] - p - d -
-i - p - d - [0u3] - p -
-d - u - p - s -
-u - p - a - y - O -
-a - [6etp] - u - p - u - p -
-s - u - p - s - u - p - s -
-[uf] p - s - [uf] - [%Wuf] - p - d - u -
-p - d - u - p - d - u - p -
-d - [uf] - p - d [uf] - [6euf] - p s -
-u - p - s u - p - [2ig] p - d -
-i - p d - i - p - [30uf] - p - s -
-u - p s - u p - [yd] - p - s
-u - [pj] - 3 [pj] - [:e'6p] - e
-e r 6 [etp] - 6 - [6t] - r - e -
-[pj] 6 - e [6j] [p:w'%j] - W W - e
-% [rW] - % r - t W r %
-[Wpj] % - [:e'6pj] - e e r 6 - [et]
-6 [y2] - y e u 2 i -
-3 - u 3 - y - [ty] - 3 -
-[3t] 3 r 3 W - [6e] -
-6 - 6, 6 - 6 -
-6 - 6 - 6 - 6 - 6 -
-l-6 - o-6 e-t-[6u] t u-[6p]-t u-p-[6s]-u-
-p s-[6f] s-f-[6j]-s-f-j-[6l]-f-j [6fx] [6fx] % -
-r-[%u]-W-r u-[%O]-r u-O-[%a] u-O-a [%f]-O a-f-[%H]-a-
+[6eu] p s u p s u p s u p s
+[5wu] p s u p s u p s u p s 
+[4qi] p s i p s 
+[29i] p d i p d 
+[30u] p d u p s u p a y O a 
+[6etp] u p u p s u p s u p s
+u p s [uf] [%Wuf] p d u p d 
+u p d u p d [uf] p d [uf] [6euf] p s 
+u p s u p [2ig] p d 
+i p d i p 
+[30uf] p s u p s u p [yd] p s
+u [pj] 3 [pj] [6ep] e
+e r 6 [etp] 6 [6t] r e 
+[pj] 6 e [6j] [%wpj] W W e
+% [Wr] % r t W r %
+[Wpj] % [6epj] e e r 6 [et]
+6 [2y] y e u 2 i 
+3 u 3 y [ty] 3 
+[3t] 3 r 3 W [6e] -
+6 6 6 6
+6 6 6 6 6 
+6 6 [6e] t[6u] t u [6p] t u p [6s] u
+p s [6f] s f [6j] s f j [6l] f j [6fjlx] [6fjlx]
+% r [%u] W r u [%O] r u O [%a] u-O-a [%f]-O a-f-[%H]-a-
 f-H [%k]-f-H-Z-[fHx%] x - 5-[6e] T-u-[5p] T-u-p-[5S] u-
 p S-[5f] p S-f-[5j]-S-f-j [5L] f-j L-[5x] j-[Lx:y] [L5jx] [L5x] -
 4 q-y [4p] q-d-g-[4j] q-x [4qjz] [4qj] - 4
