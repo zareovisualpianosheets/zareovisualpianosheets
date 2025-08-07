@@ -1,46 +1,55 @@
 Transpose by: -4 
-
-[3h] f D f h fD f - 
-[@G] f D f G fD f - 
-[1f] 8 0 w t u o s h f l - {@DGk} - - -{Dj}- - -
-[3oafh] - [wruaf] [YD] [wruaf] [3oafh] [wruaf]-[YD]-
-5 [uf]-[wra] [6eosh] [etusf] [8YD] [etusf] [6esoh] [etusf] 
-[YD]-8-[uf] [ets] [7rIDG] [rYuDf] [(YD] [ruDf] [IG] - 
-[rYuDf] [YD] (-[uf] [rYD] [56eosh] [etusf] [8YD] [etusf] [7rpDj] [rYoDh]-
-[pj]-(-j-[etsk]-l [3afhjk] [wruaf] [5YD] [wruaf] [3oafh] [wruaf] [YD]-
-5 [uf]-[wra] [6epsj] [etusf] [8D] [etusf] [6eosh] [etusf] [YD]-8 [uf]-
-[ets] [7rDk] [rYuDf] [(YD] [rYuDf] [l7rD] [rYuDf]-
-[YD] (-[uf]-[rYD] [6esk] [etusf] [8YD] [etusf] [7rpDj] [7rDpj] [7prDj] 0 
-[1slm]-[lm]-[twkn]-[kn] [15hkv]-[hkv] [wtfhx]-[fh] [1Dlm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] 
-[15fhx]-[fhx] [7rDkv] [fhx] [rYD] [hkv]-( [jlb]-[rYD] [7rDhkv] [fhx]-[rYD] [hkv]-(-[jlb]-[ets] 
+Notebinds: Major
+2 - - > @
+9 - - > (
+q - - > Q
+y - - > Y
+i - - > I
+d - - > D
+g - - > G
+z - - > Z
+c - - > C
+[3h] f d f h fd f - 
+[2g] f d f g fd f - 
+[1f] 8 0 w t u o s {hfl} - {2dgk} - - -{dj}- - -
+[3oafh] - [wruaf] [yd] [wruaf] [3oafh] [wruaf]-[yd]-
+5 [uf]-[wra] [6eosh] [etusf] [8yd] [etusf] [6esoh] [etusf] 
+[yd]-8-[uf] [ets] [7ridg] [ryudf] [9yd] [rudf] [ig] - 
+[ryudf] [yd] 9-[uf] [ryd] [56eosh] [etusf] [8yd] [etusf] [7rpdj] [ryodh]-
+[pj]-9-j-[etsk]-l [3afhjk] [wruaf] [5yd] [wruaf] [3oafh] [wruaf] [yd]-
+5 [uf]-[wra] [6epsj] [etusf] [8d] [etusf] [6eosh] [etusf] [yd]-8 [uf]-
+[ets] [7rdk] [ryudf] [9yd] [ryudf] [l7rd] [ryudf]-
+[yd] 9-[uf]-[ryd] [6esk] [etusf] [8yd] [etusf] [7rpdj] [7rdpj] [7prdj] 0 
+[1slm]-[lm]-[twkn]-[kn] [15hkv]-[hkv] [wtfhx]-[fh] [1dlm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] 
+[15fhx]-[fhx] [7rdkv] [fhx] [ryd] [hkv]-9 [jlb]-[ryd] [7rdhkv] [fhx]-[ryd] [hkv]-9-[jlb]-[ets] 
 [3aflm] l-[wrakn]-[kn] [5hkv]-[hkv] [wrafhx]-[fhx] [3aflm]-[lm] [wrakn]-[kn] [5hkv]-[hkv] [wrafhx]-[fhx] 
 [3afhkv] [fhx]-[wra] [hkv]-5-[jlb]-[wra] [3afhkv] [fhx]-[wra]-[hkv]-5-[jlb] % [6esx] [etsjlb] 8-[jlb]-[ets] 
-[jlb]-[6esx] [etshkv] [8jlb]-[kn]-[etslm] [7rDkCn]-[kn] [rYD]-[kn]-( [rYDkn] [7rDC] [rYDkn] [(jlb] [etshkv] 
-[3afhkv] [wrafhx] 5 [wruoa] [3af] [wruoa] [5hl] [wra] [3afhl] [wrahk] 5 I-[wra]-o-I-[3af]-u [wra]-Y 5 [wrta] 
-[1slm]-[lm] [wtkn]-[kn]-[15khv] v-[wtfhx]-[fhx] [1slm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] [15fhx]-[fhx] [7rDhkv] 
-[fhx]-[rYD] [hkv]-(-[jlb]-[rYD] [7hkv] [fhx]-[rDY] [hkv] (-[jlb]-[ets] [3aflm]-[lm] [wrakn]-[kn] [5hkv]-[hkv] 
+[jlb]-[6esx] [etshkv] [8jlb]-[kn]-[etslm] [7rdkcn]-[kn] [ryd]-[kn]-9 [rydkn] [7rdc] [rydkn] [9jlb] [etshkv] 
+[3afhkv] [wrafhx] 5 [wruoa] [3af] [wruoa] [5hl] [wra] [3afhl] [wrahk] 5 i-[wra]-o-i-[3af]-u [wra]-y 5 [wrta] 
+[1slm]-[lm] [wtkn]-[kn]-[15khv] v-[wtfhx]-[fhx] [1slm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] [15fhx]-[fhx] [7rdhkv] 
+[fhx]-[ryd] [hkv]-9-[jlb]-[ryd] [7hkv] [fhx]-[ryd] [hkv] 9-[jlb]-[ets] [3aflm]-[lm] [wrakn]-[kn] [5hkv]-[hkv] 
 [wrafhx]-[fhx] [3aflm] [wrakn] [5hkv] [wrafhx] [3afhkv] [fhx]-[wra] [hkv]-5-[jlb]-[wra] [3afhkv] [fhx]-[wra]-[khv]-
-5-[jlb]-% [6esx] [etsjlb] 8-[ljb]-[ets] [jlb]-[6esx] [etsjlb] [8hkv]-[jb]-[etskn]-[lm]-[7rDkCn]-[kn] [rYD]-[kn]-( 
-[rYDkn] [7rDC] [rYDkn] [jlb] [wrahkv] [3afhkv] [wrafhx] 5 [wruoa] [3af] [wuoaf] [5hl] [wra] [3afhl] [wrahk]
-5 0 ( 8 7 6 [3roafhx] [wruaf] [5YD] [wruaf] [3roah] [wruaf] [YD]-5 [uf]-[wra] [6eoshx] [etusf] [8YD] [etf] [6eohx] [etusf] [YD]-
-8 [uf]-[ets] [7IGC] [rYuDf] [(YD] [rYuDf] [7IDGC] [rYuDf] [YD]-(-[uf]-[rYD] [6eoshx] [etusf] [8YD] [etusf] [7rDjC] [rYoDh] j-[8(]-j-[erk] 
-[3roafhx] [wruaf] [5YD] [wruaf] [3roahx] [wruaf] [YD]-5 [uf]-[wra] [6eoshx] [etusf] [8YD] [etusf] [6epsjx] [etusf]-[YD]-8-[uf]-[ets] [7rDkC] 
-[rYuf] [(YD] [ruf] [7rDlC] [rYuf] [YD]-(-[uf]-[rYD] [6eskx] [etusf] [8YD] [etusf] [7rpDjC] [7rpDjC] [7pDjC] 0 [3DGZ] [wra] [5fhx] w [3GjC] 
-[wra] [5hkv] [wra] [6DGZ] [ets] [8fhx] [ets] [6GjC] [ets] [8hkv] [ets] [7DGZ]-[DGZ]-[rYDGZ] [DGZ]-[(fhx]-[fhx]-[rYDfhx]-[fhx]-[7GjC]-[GjC]-[rYDGjC] 
-[GjC]-[(hkv]-[hkv]-[rYDhkv]-[hkv]-[6esjlxb]-[jlb]-[etsjlb]-[jlb]-[8kn]-[kn]-[etskn]-[kn] [7rDlCm]-[lm] [rYDlm]-[lm] [(kn] [kn]-[rYDkn] [3DGZ] [wra] [5fhx] [wra] 
-[3fGjC] [wr] [5hkv] [wra] [6DGZ] [ets] [8fhx] [ets] [6GjC] [ets] [8hkv] [ets] [7DGZ]-[DGZ]-[rYDGZ]-[DGZ]-(-[fhx]-[rYDfhx]-[fhx]-[7GjC]-[GjC]-[rYDGjC]-[GjC]-[(hkv]-[hkv]-[rYDhkv]-[hkv]-
-[6esjlxb]-[jlb] [etsjlb]-[jlb]-8-[kn]-[kn]-[etskn] [kn]-[7rDlCm] [lm]-[rYlm] [(kn] [kn]-[etskn] [3afn]-m [wrahkv] [5jlb] [wrafhx] n-[3ruam]-n-[wafhkv] [5jlb] [wrakn] [6esxnm] 
-n-[etshkv] [8jlb] [ets] [6sxnm]-n-[etshkv] [8jlb] [etskn] n-[7DCm] [rYDjb] [(lm] [rYDkn] [7rDC] [rYDlm] (-[kn]-[rYDjb] [6eskxn] [etsnm] [8khv] [etsjlb] [7fhx] [rYDn] [(hkv] 
+5-[jlb]-% [6esx] [etsjlb] 8-[ljb]-[ets] [jlb]-[6esx] [etsjlb] [8hkv]-[jb]-[etskn]-[lm]-[7rdkcn]-[kn] [ryd]-[kn]-9 
+[rydkn] [7rdc] [rydkn] [jlb] [wrahkv] [3afhkv] [wrafhx] 5 [wruoa] [3af] [wuoaf] [5hl] [wra] [3afhl] [wrahk]
+5 0 9 8 7 6 [3roafhx] [wruaf] [5yd] [wruaf] [3roah] [wruaf] [yd]-5 [uf]-[wra] [6eoshx] [etusf] [8yd] [etf] [6eohx] [etusf] [yd]-
+8 [uf]-[ets] [7igc] [ryudf] [9yd] [ryudf] [7idgc] [ryudf] [yd]-9-[uf]-[ryd] [6eoshx] [etusf] [8yd] [etusf] [7rdjc] [ryodh] j-[89]-j-[erk] 
+[3roafhx] [wruaf] [5yd] [wruaf] [3roahx] [wruaf] [yd]-5 [uf]-[wra] [6eoshx] [etusf] [8yd] [etusf] [6epsjx] [etusf]-[yd]-8-[uf]-[ets] [7rdkc] 
+[ryuf] [9yd] [ruf] [7rdlc] [ryuf] [yd]-9-[uf]-[ryd] [6eskx] [etusf] [8yd] [etusf] [7rpdjc] [7rpdjc] [7pdjc] 0 [3dgz] [wra] [5fhx] w [3gjc] 
+[wra] [5hkv] [wra] [6dgz] [ets] [8fhx] [ets] [6gjc] [ets] [8hkv] [ets] [7dgz]-[dgz]-[rydgz] [dgz]-[9fhx]-[fhx]-[rydfhx]-[fhx]-[7gjc]-[gjc]-[rydgjc] 
+[gjc]-[9hkv]-[hkv]-[rydhkv]-[hkv]-[6esjlxb]-[jlb]-[etsjlb]-[jlb]-[8kn]-[kn]-[etskn]-[kn] [7rdlcm]-[lm] [rydlm]-[lm] [9kn] [kn]-[rydkn] [3dgz] [wra] [5fhx] [wra] 
+[3fgjc] [wr] [5hkv] [wra] [6dgz] [ets] [8fhx] [ets] [6gjc] [ets] [8hkv] [ets] [7dgz]-[dgz]-[rydgz]-[dgz]-9-[fhx]-[rydfhx]-[fhx]-[7gjc]-[gjc]-[rydgjc]-[gjc]-[9hkv]-[hkv]-[rydhkv]-[hkv]-
+[6esjlxb]-[jlb] [etsjlb]-[jlb]-8-[kn]-[kn]-[etskn] [kn]-[7rdlcm] [lm]-[rylm] [9kn] [kn]-[etskn] [3afn]-m [wrahkv] [5jlb] [wrafhx] n-[3ruam]-n-[wafhkv] [5jlb] [wrakn] [6esxnm] 
+n-[etshkv] [8jlb] [ets] [6sxnm]-n-[etshkv] [8jlb] [etskn] n-[7dcm] [rydjb] [9lm] [rydkn] [7rdc] [rydlm] 9-[kn]-[rydjb] [6eskxn] [etsnm] [8khv] [etsjlb] [7fhx] [rydn] [9hkv] 
 [rYjb] [3rafnm] [hkvb]-[wra] [5jlb] [wrafhx] [3ruaxm] [wrahkv] [5jlb] [wrakn] [6esxnm] [etshkv] [8jlb] [etsfhx] n-[6sxm] [etshkvb] [8jb] [etskn] [7rDC] [rYDlm]-[lm] 
-(-[kn]-[rYD]-[jb]-[7rDC] [ryDhv] [8(rjb]-[lm]-[YDlm] [6eskxn]-[kn]-[ets]-[kn]-8-[jb]-[etskn] [7rDkCn] [7rDkCn] [7CrnDk] 0 - 0 0 ( 8 7 6 - [1slm]-[lm] [wtkn]-[jkbn] 
-[15hkv]-[hkv] [wtfhx]-f [1slm] [wtkn] [15hkv] [15fhx] [7rDhkv] [fhx] [rYD]-[hkv]-(-[jlb]-[rYD] [78hkv] [fhx]-[rYD] [hkv]-(-[jlb]-[ets] [3aflm]-[lm]-[wrakn]-[kn] 
+9-[kn]-[ryd]-[jb]-[7rdc] [rydhv] [89rjb]-[lm]-[ydlm] [6eskxn]-[kn]-[ets]-[kn]-8-[jb]-[etskn] [7rdkcn] [7rdkcn] [7rdkcn] 0 - 0 0 9 8 7 6 - [1slm]-[lm] [wtkn]-[jkbn] 
+[15hkv]-[hkv] [wtfhx]-f [1slm] [wtkn] [15hkv] [15fhx] [7rdhkv] [fhx] [ryd]-[hkv]-9-[jlb]-[ryd] [78hkv] [fhx]-[ryd] [hkv]-9-[jlb]-[ets] [3aflm]-[lm]-[wrakn]-[kn] 
 [5hkv] [hkv]-[wrfhx]-h [3aflm]-[lm]-[wrakn]-[kn] [5hkv]-[hkv] [wrafhx]-[fhx] [3afhkv] [fhx]-[wra]-[hkv]-5-[jlb]-[wra] [3afhkv] [fhx]-[wra]-[hv]-5-[jlb]-
-% [6esx] [etsjlb] 8-[jlb]-[ets] [jlb]-[6esx] [hkv]-[ets] [8jlb] [etslm] [7rDkCn]-[kn]-[rYD]-[kn]-( [rYDkn] [7rDC] [rYDkn] [8(jlb] [etshkv] [3afhkv] [wrafhx] 5 [wruoa] 
-[3af] [wruoa] [5hl] [wra] [3afhl] [wrahk] 5 [0wra]-(-[38af] [wra] [56] [6wra] [1slm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] [wtfhx]-[fhx] [1slm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] [15fhx]-
-[fhx] [7rDhkv]-[fhx]-[rYD]-[hkv] (-[jlb]-[rYD] [7hkv] [fhx]-[rYD] [hkv]-(-[jlb]-[ets] [3aflm]-[lm]-[wrakn]-[kn] [5hkv]-[hkv] [wrafhx] [3aflm]-[lm]-[wrakn]-[kn] [5hkv]-[hkv] 
-[wrafhx]-[fhx] [3afhkv] [fhx]-[wra] [hkv]-5-[jlb]-[wra] [3afhkv] [fhx]-[wra] [hkv]-5 [jlb]-% [6esx] [etsjlb] 8-[jlb]-[ets] [jlb]-[6esx] [etshkv] [8jlb]-[kn]-[etslm] [7rDkCn]-[kn] 
-[rYD]-[kn]-( [rYDkn] [7rDC] [rYDkn] [(jpb] [rYDhkv] [6eshkxv] [etsfhx] 8 [ets] [6esx] [etshkv] [7jlb]-[kn]-[ets] [lm]-[7rDC] [rYDkn] [(j] [rYDkn] [7rDC] [rYDkn] [(hv] [erYskn] [6eskxn] [etsfx]
+% [6esx] [etsjlb] 8-[jlb]-[ets] [jlb]-[6esx] [hkv]-[ets] [8jlb] [etslm] [7rdkcn]-[kn]-[ryd]-[kn]-9 [rydkn] [7rdc] [rydkn] [89jlb] [etshkv] [3afhkv] [wrafhx] 5 [wruoa] 
+[3af] [wruoa] [5hl] [wra] [3afhl] [wrahk] 5 [0wra]-9-[38af] [wra] [56] [6wra] [1slm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] [wtfhx]-[fhx] [1slm]-[lm]-[wtkn]-[kn] [15hkv]-[hkv] [15fhx]-
+[fhx] [7rdhkv]-[fhx]-[ryd]-[hkv] 9-[jlb]-[ryd] [7hkv] [fhx]-[ryd] [hkv]-9-[jlb]-[ets] [3aflm]-[lm]-[wrakn]-[kn] [5hkv]-[hkv] [wrafhx] [3aflm]-[lm]-[wrakn]-[kn] [5hkv]-[hkv] 
+[wrafhx]-[fhx] [3afhkv] [fhx]-[wra] [hkv]-5-[jlb]-[wra] [3afhkv] [fhx]-[wra] [hkv]-5 [jlb]-% [6esx] [etsjlb] 8-[jlb]-[ets] [jlb]-[6esx] [etshkv] [8jlb]-[kn]-[etslm] [7rdkcn]-[kn] 
+[ryd]-[kn]-9 [rydkn] [7rdc] [rydkn] [9jpb] [rydhkv] [6eshkxv] [etsfhx] 8 [ets] [6esx] [etshkv] [7jlb]-[kn]-[ets] [lm]-[7rdc] [rydkn] [9j] [rydkn] [7rdc] [rydkn] [9hv] [eryskn] [6eskxn] [etsfx]
 8 [ets] [6esx] [etsjb] [8hv] [etsjb] [7rDC] [rDYjb] [(hv] [jb] [rYDjb] [rYDjb] [rYDjb] u [3DGZ] [wra] 5 [wra] [3fhx] [wraGjC] 5 [wrahkv] [6esx] [ets] 
-8 [ets] [6esxn]-m-n-[etsm]-n-m-[8n]-m-n-[etsm]-n [7rDCv] [rYD] ( [YD] [7rDjCb] [rYDlm] ( [rYkn] [6esx] [ets] 8 [ets] [7DjlC] [rYDjl] ( [etsjk] [3fjb] [wra] 
-5 [wra] [3afhv] [wrafx] 5 [wrDZ] [6esx] [ets] 8 [ets] [6esx] [etshv] [8jb] [ets] [7rDCn]-m-n-[rYDm]-n-m-[(n]-m-n-[YDm]-n-[7rDCnm] m-[rYDn]-m-n-(-m-n-[rYm]-n-m-
-[6esxn]-m-n-[tm]-n-m-[8n] m-[etsn] [7rDknC] [rYDkn] [(kn] [kn] [3afn]-m-n-m-n-m-n-m-n-m-n-m-n-m-n-m-n-m-n [3oafh] - - [38]
+8 [ets] [6esxn]-m-n-[etsm]-n-m-[8n]-m-n-[etsm]-n [7rdcv] [ryd] 9 [yd] [7rdjcb] [rydlm] 9 [rykn] [6esx] [ets] 8 [ets] [7djlc] [rydjl] 9 [etsjk] [3fjb] [wra] 
+5 [wra] [3afhv] [wrafx] 5 [wrdz] [6esx] [ets] 8 [ets] [6esx] [etshv] [8jb] [ets] [7rdcn]-m-n-[rydm]-n-m-[9n]-m-n-[ydm]-n-[7rdcnm] m-[rydn]-m-n-9-m-n-[rym]-n-m-
+[6esxn]-m-n-[tm]-n-m-[8n] m-[etsn] [7rdknc] [rydkn] [9kn] [kn] [3afn]-m-n-m-n-m-n-m-n-m-n-m-n-m-n-m-n-m-n [3oafh] - - [{3}8] - - -
