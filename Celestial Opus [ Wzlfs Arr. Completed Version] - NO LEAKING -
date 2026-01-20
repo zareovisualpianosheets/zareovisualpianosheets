@@ -1,5 +1,6 @@
 Transpose By: -3
-                       
+Keybinds : Phrygian Dominant
+
 - Intro -
 
 [48q] -- [qetip] - 8 [4q] 8 8 [4q] 8 [qetip] - 8 [4q]
@@ -7,10 +8,10 @@ Transpose By: -3
 [29] -- [qeyip] 9 2 9 9 2 9 [qeyip] - 9 2 
 [18] -- [wtuo]  - 8 1 [7r] [6e] - [5w] -- 
 
-- Creative Uno -
+- Uno Creative -
+
 [4qsk] - k l k [qetj] - h [4qs] h [4qs] h j h [qetg] - f 4 
-[3f] - f g f [wrad] s 3 s 3 0 w [wruoa] - 0 3 k
-[2d] k l k [qej] - h [2d] h [2d] h j h [qeg] - f 2 
+[3f] - f g f [wrad] s 3 s 3 0 w [wruoa] - 0 3 [2dk] k l k [qej] - h [2d] h [2d] h j h [qeg] - f 2 
 [1sf] g h j [wtk] - l [15] k l [15k] - [wtj] - [15] - 
 [4qsk] - k l k [qetj] - h [4qs] h [4qs] h j h [qetg] - f 4 
 [3f] - f g f [wrad] s 3 s 3 0 w [wruoa] 0 3 0 
@@ -21,57 +22,58 @@ Transpose By: -3
 
 [48qepsgj] - i q [8qetip] - [ip] [4qs] [pgj] [4qs] p [oh] [qet] p [4qgj] -
 [3afhk] [uo] w [70wrua] [uo] [3af] [ui] [hk] [3af] u [pj] [wra] [uo] [3oafh] - 
-[2pdgj] 2 [yi] q [69qeyp] [yip] [2d] [yip] [pgj] [2d] [yip] [oh] [qe] [yi] [2idg] -
+[2pdgj] [yi] q [69qeyp] [yip] [2d] [yip] [pgj] [2d] [yip] [oh] [qe] [yi] [2idg] -
 [1usf] - 8 w [wtig] 8 [15] [15] [oh] - [7r] [pj] [6e] [5wpj] - 
-[4qpsgj] [ip] q [8qetip] [ip] [4qs] [iop] [pgj] [4qs] p [etoh] q p [4qgj] -
-[3afhk] [uo] w [70wrua] [uo] [3af] [uo] [hk] [3af] [uo] p [wra] [uo] [3oafh] - 
-[2pdgj] [yip] q [69qeyp] [yip] [2d] [yip] [pghj] [2d] [yip] [oh] [qe] [yi] [2idg] -
-[1usf] 8 w [wtig] 8 [15] [oh] [7r] [pj] [6e] [5wpj] - 
-
-- Creative Uno [Double Octaves] -
-
-[4qpsjb] - [lm] [etkn] [qjbn] - [hv] [4qs] [hv] [4qs] 
-[hv] [jb] [hv] [qetgc] - [fx] 4 [3fx] [fx] [gc] [wrafx] d s 3 s 3 0 w [wruoa] - 0 [3a]
-[2djb] - [jb] [kn] [qejb] - [2ehv] [hv] [2e] [hv] [jb] [hv] [qegc] [fx] 2 
+[4qpsgjb] [ip] q [8qetip] [ip] [4qs] [iop] [pgjb] [4qs] p [etohv] q p [4qgjb] -
+[3afhkn] [uo] w [70wrua] [uo] [3af] [uo] [hkn] [3af] [uo] [pjb] [wra] [uo] [3oafhv] - 
+[2pdgjb] [yip] q [69qeyp] [yip] [2d] [yip] [pghjb] [2d] [yip] [ohv] [qe] [yi] [2idgc] -
+[1usfx] 8 w [wtigc] 8 [15] [oh] [7r] [pj] [6e] [5wpj] - 
+- Creative Uno [Double Arpeggios -
+[4qpskn] - [kn] [lm] [etkn] [qjbn] - [hv] [4qs] [hv] [4qs] 
+[hv] [jb] [hv] [qetgc] - [fx] 4 [3fx] [fx] [gc] [wrafx] [dz] [sl] 3 [sl] 3 0 w [wruoa] - 0 [3a]
+[2djb] - [jb] [kn] [qejb] [hv] [2ehv] - [hv] [2ejb] [hv] [gc] [qegc] [fx] 2 
 [1sfx] [gc] [hv] [jb] [wtkn] - [lm] [135] [kn] [jb] [135hv] - [wtgc] - [15] - 
-[4qskn] [kn] [lm] [kn] [qetb] j [qhv] [4qs] [hv] [4qs] [hv] [jb] [hv] [qetgc] - [fx] [4q] [3fx] [fx] [gc] [fx] [wradz] s 3 s - [30] w [wruoa] 
-0 [3a] [2djb] [jb] [kn] [jb] [qe] [hv] [igc] [2d] [igc] [2d] 9 q [qeyip] - 8 2 [1sjb] - [jb] [kn] [jb] [hv] [gc] - [ufx] 
+[4qskn] [kn] [lm] [kn] [qetjb] [qhv] [4qs] [hv] [4qs] [hv] [jb] [hv] [qetgc] - [fx] [4q] [3fx] [fx] [gc] [fx] [wradz] [sl] 3 [sl] - [30] w [wruoa] 
+0 [3a] [2djb] [jb] [kn] [jb] [qehv] [igc] [2d] [igc] [2d] 9 q [qeyip] - 8 2 [1sjb] - [jb] [kn] [jb] [hv] [gc] - [ufx] 
 - [8wt] - [158] -- 
 
 - CODA -
 
-[4qtpgjcb] - [lm] q [qetpjb] [ip] - [4qs] [pjb] [4qs] [lm] q [qetpjb] - [ip] [4q]
-[3oafhxv] - [kn] w [wroahv] [uo] [3afx] [hv] o [3afx] [ohv] [wra] [uo] [3roahv] [2idgzc] - [pjb] q [qeigc] -
+[4qtpgjcb] - [lm] q [qetpjb] - [ip] [4qs] [pjb] [4qs] [lm] q [qetpjb] - [ip] [4q]
+[3oafhxv] - [kn] w [wroahv] [uo] [3afx] [hv] o [3afx] [ohv] [wra] [uo] [3roahv] - [2idgzc] - [pjb] q [qeigc] -
 [yip] [2qdz] [igc] [2qdz] [pjb] q [qefgxc] - p [2q] [1oshv] - [kn] w [wthv] [8uo] [135] [uo] [uo] [wt] h [uosf] [8wt] -
 [4qtpgjcb] [lm] q [qetpjb] - [ip] [4qs] [pjb] [4qs] [lm] q [qetpjb] [ip] q 
 [3oafhxvb] [kn] [wa] [wrpab] - [3afx] [uo] [uo] [3afx] [uo] [wra] [3ruoa] - 
 [2idghzc] [pjb] q [qeigc] - [yip] [2dz] [igc] [2dz] [pjb] 
 [qeigc] p - [12oshv] -- [wtuo] - 8 [135] 8 8 [135] 8 8 [135] 8 [135]
 
-- Creative Uno -
+- Creative Uno - 
 
-[4qk] - k l k [qertj] - h [4qs] h [4qs] h [hj] [qetg] f 4 [3f] f g f [wrad] s 3 s 3 0 w [wruoa] 0 [3a] 0
-[2dj] - j k j [qeh] - g [2d] g [2d] g h g [qe] f f 2 [1sf] g h j [wtk] - l [135] j k [135j] - [wth] [158] - 
-[4qk] - k l k [qetj] h [4qs] h [4qs] h [hj] [qetg] f 4 [3f] - f g f [wrad] - 3 s 3 0 - [0wruoa] [3a] 0 
+[4qk] - k l k [qetj] - h [4qs] h [4qs] h j h [qetg] f 4 [3f] f g f [wrad] s 3 s 3 0 w [wruoa] 0 [3a] 0
+[2dj] - j k j [qeh] - g [2d] g [2d] g h g [qef] f 2 [1sf] g h j [wtk] - l [135] j k [135j] - [wth] [158] - 
+[4qk] - k l k [qetj] h [4qs] h [4qs] h j h [qetg] f 4 [3f] - f g f [wrad] - s 3 s 3 0 - [0wruoa] [3a] 0 
 [2dj] - j k j [qeh] [ig] [2d] [ig] [2d] 9 q [qeyip] 8 [2d] 8 [1sh] h j h g - [uf] [uf] - [7r] - [6e] [5w] - 
 
 - CODA -
 
-[4qpsgj] i p [8qetp] i i [4qs] p [pgj] [4qs] p [oh] [qet] p [4qgj] -
-[3afhk] [uo] w [70wrua] [uo] [3af] [uo] [hk] [3af] p [wra] [ig] [3a] [2odh] -- 
-[qeyip] 6 [2d] [pgj] [2d] p [oh] [qe] - [2ig] [1usf] 8 w [wtig] 8
-[15] [15] [oh] - [7r] [pj] [6e] [5wpj] - 
-[4qpsgj] [ip] q [8qetip] [ip] [4qs] p [gj] [qs] p o [qet] p [4qgj] -
-[3afhk] - [uo] w [70wrua] [uo] [3af] [uo] [hk] [3af] [uo] [pj] [wra] [uo] [3oafh] -
-[2pdgj] - [yip] q [69qyp] e [yip] [2d] [yip] [pgj] [2d] [yip] [oh] [qe] y [2idg] [1usf] - 8 w [wtig] 8 
-[15] [15] [oh] [7r] [pj] [6e] [5wpj] - 
+[48qepsgj] - i q [8qetip] - [ip] [4qs] [pgj] [4qs] p [oh] [qet] p [4qgj] -
+[3afhk] [uo] w [70wrua] [uo] [3af] [ui] [hk] [3af] u [pj] [wra] [uo] [3oafh] - 
+[2pdgj] [yi] q [69qeyp] [yip] [2d] [yip] [pgj] [2d] [yip] [oh] [qe] [yi] [2idg] -
+[1usf] - 8 w [wtig] 8 [15] [15] [oh] - [7r] [pj] [6e] [5wpj] - 
+[4qpsgj] [ip] q [8qetip] [ip] [4qs] [iop] [pgj] [4qs] p [etoh] q p [4qgj] -
+[3afhk] [uo] w [70wrua] [uo] [3af] [uo] [hk] [3af] [uo] p [wra] [uo] [3oafh] - 
+[2pdgj] [yip] q [69qeyp] [yip] [2d] [yip] [pghj] [2d] [yip] [oh] [qe] [yi] [2idg] -
+[1usf] 8 w [wtig] 8 [15] [oh] [7r] [pj] [6e] [5wpj]
+
+- END -
+
 [4qis] -- [qetip] 8 [4q] 8 
 8 [4q] 8 - [qetip] - 8 4 
 [30] -- [wruoa] 0 3 0 0 3 0 [wruoa] 0 3
 [29] -- [qeyip] - 9 2 9 9 2 9 [qeyip] 9 2 
-[18] -- [wtuo] 8 1 | [7r] - [6e] - [5w] 
+[18] -- [wtuo] 8 1 | [7r] - [6e] - [5w] [6e] [5w] 
 [348q] -- [qetip] 8 [4q] 8 8 [4q] 8 [qetip] - 8 4
 [30] -- [wruoa] 0 3 0 0 3 0 [wruoa] 0 3
 [29] -- [qeyip] - 9 2 9 9 2 9 [qeyip] 9 2 
-[18] -- [wtuo] 8 1 8 8 1 [wtuo] 8 1 [7r] - [6e] [5w] [4q] ||
+[18] -- [wtuo] 8 1 [7r] - [6e] [5w] [4q] [30] [48q] ||
 
