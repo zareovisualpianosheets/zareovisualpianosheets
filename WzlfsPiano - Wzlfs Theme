@@ -61,7 +61,7 @@ c → C
 [7rdhkv] [fhx]-[ryd] [hkv] 9-[jlb]-[ets]
 [3raflxm][lm][wrakn][kn][5hkv][hkv][wrafhx][fhx] 
 [3raflxm][wrakn][5hkv] 
-[wr nuafhx] [3afhkv] [fhx]-[wra] [hkv]-5-[jlb]-[wra]
+[wruafhx] [3afhkv] [fhx]-[wra] [hkv]-5-[jlb]-[wra]
 [3afhkv] [fhx]-[wra]-[khv]-5-[jlb]-% 
 [6esx] [etsjlb] 8-[ljb]-[ets] [jlb]-
 [6esx] [etsjlb] [8hkv]-[jb][etskn][lm]-
@@ -96,13 +96,13 @@ c → C
 [7dgz][dgz][rydgz][dgz][9fhx][fhx][rydfhx][fhx]
 [7gjc][gjc][rydgjc][gjc][9hkv][hkv][rydhkv][hkv]
 [6esfhx][jlb][etsjlb][jlb][8kn][kn][etskn][kn] 
-[7rdlcm][lm][rydlm][lm] [9kn] [kn][rydkn] 
+[7rdlcm][lm][rydlm][lm] [9kn] [kn][rydkn] [kn] 
 [3radgz] [wra] [5fhx] [wra] [3fgjc] [wr] [5hkv] [wra] 
 [6dgz] [ets] [8fhx] [ets] [6gjc] [ets] [8hkv] [ets] 
 [7dgz][dgz][rydgz][dgz][9fhx][fhx][rydfhx][fhx]
 [7gjc][gjc][rydgjc][gjc][9hkv][hkv][rydhkv][hkv]
 [6esfhx][jlb][etsjlb][jlb]8[kn][kn][etskn][kn]
-[7rdlcm][lm][rylm][lm] [9kn] [kn][etskn] 
+[7rdlcm][lm][rylm][lm] [9kn] [kn][etskn] [kn] 
 
 - A Bit Trills -
 
@@ -114,7 +114,7 @@ n[7dcm] [rydjb] [9lm] [rydkn] [7rdc] [rydlm] 9-[kn]-[rydjb]
 [3rafnm] [hkv]-[wra] [5jlb] [wrafhx] [3ruaxm] [wrahkv] [5jlb] [wrakn]
 [6esxnm] [etshkv] [8jlb] [etsfhx] n[6sxm] [etshkvb] [8jb] [etskn]
 [7rdc] [rydlm][lm] 9-[kn] [ryd]-[jb] [7rdc] [rydhv] [9rjb] [lm][rydlm] 
-[6eskxn] [kn]-[ets] [kn]-8 [jb]-[etskn] [7rdkcn] [7rdkcn] [7rdkcn] 0 - 
+[6eskxn] [etskn] [kn]-8 [jb]-[etskn] [7rdkcn] [7rdkcn] [7rdkcn] 0 - 
 0 0 9 8 7 6 - 
 
 - C O D A - 3 -
@@ -128,7 +128,7 @@ n[7dcm] [rydjb] [9lm] [rydkn] [7rdc] [rydlm] 9-[kn]-[rydjb]
 [3afhkv] [fhx]-[wra] [hkv]-5 [jlb]-[wra] 
 [3afhkv] [fhx]-[wra] [hkv]-5 [jlb] % 
 [6esx] [etsjlb] 8 [jlb]-[ets] [jlb]-
-[6esx] [hkv]-[ets] [8jlb] [etslm]
+[6esx] [etshkv] [8jlb][kn][etslm]
 [7rdkcn] [kn]-[ryd] [kn]-9 [rydkn] 
 [7rdc] [rydkn] [9jlb] [etshkv] 
 [3afhkv] [wrafhx] 5 [wruoa] [3af] [wruoa] [5hl] [wra] 
