@@ -1,28 +1,25 @@
+Sheets Made By ZareoPiano
+Keybinds : Phrygian Dominant
+
 Transpose by: 3 
-Tempo: 114 BPM
-[ts] [ts] [ts] [lm] [lm] [lm] [ts] [ts] [ts] [lm] [lm]
-[lm]
-27% slower - BPM changed to 90
-[ts]
-[lm]
-[lm] [ts]
-[lm]
-67% slower - BPM changed to 48
-138% faster - BPM changed to 114
-[lm],
-s s-l
-l J
-[WJ48]-H [WH48] h [%qth]-g [%qtf] g [8wuf]-g-h [8wus] s [EP8wu]-s-S [E8wus] P
-[WPqt]-O [WOqt] o [*wro]-i [*wru] i [80wto] t t-s-s-l l J
-[WJ48]-H [WH48] h [%qth]-g [%qtf] g [8wuf]-g-h [8wus] s [ETP8]-s-[Su] [W8tus] [E8wtus]
-[Wqtis] [ig]-[OH]-[tl] [E8wtus] [uf]-[oh]-[tl] [W48qti] - s-l-l-m [lm] [JB]
-[:9'B4]-[HV] [WHV8qt] [W8qthv] [:w'%v]-[gc] [W8qtfx] [W8qtgc] [18x]-c-[hv] [80wtsl] [80wtsl] [ETJ0]-l-[SJL] [WHtsl] [EPJ0wh]
-[WJq]-[OHg] [%OH4qs] [^P4woh] [!W7h]-[iag] [7wuf] [!5qiag] [150wf]-g-[oh] [8ts] a-s-l-s-m [lm] [JB]
-[:9'B4]-[HV] [WHV8qt] [W8qthv] [:w'%v]-[gc] [W8qtfx] [W8qtgc] [18x]-c-[hv] [0wtsl] [8wtsfl] [^TSLwg] [8wtsgl] [*EPJwg]
-[WH8qtsgl] [%Wgc]-[HV4q]-[18lm] [80wtsfhl] [5wfx]-[30hv]-[18lm] [H48qgc]
-280% slower - BPM changed to 30
-280% faster - BPM changed to 114
-:9,
+
+[ts] [ts] [ts] [lm] [lm] [lm]
+[ts] [ts] [ts] [lm] [lm] [lm]
+[ts] [lm] [lm] 
+[ts] [lm] [lm] -
+s sll k
+[48ek]j [48ej] h [6qth]g [6qtf] g [8wuf]gh 
+[8wus] s [8wrua]sd [8wrus] a [qeta]p [qetp] o [9wro]i [9wru] i [80wto] t tssl l k
+[48ek]j [48ej] h [6qth]g [6qtf] g [8wuf]gh [8wus] s [8rya]s[ud] [8etus] [8wrtus]
+[qetis] [ig][pj][tl] [8wrtus] [uf][oh][tl] [48qeti] - sllm [lm] [kn]
+[:9'4kn][jb] [8qetjb] [8qethv] [:w'%hv][gc] [8qetfx] [8qetgc] [18x]c[hv] 
+[80wtsl] [80wtsl] [0ryk]l[dkz] [etsjl] [0wrahk]
+[qek][pgj] [46qpsj] [47woah] [27eh][iag] [7wuf] [25qiag] [150wf]g[oh] [8ts] aslsm [lm] [kn]
+[:9'4kn][jb] [8qetjb] [W8qthv] [:w'%hv][gc] [8qetfx] [8qetgc] [18x]c[hv] [0wtsl] [8wtsfl] [7wydgz] [8wtsgl] [9wragk]
+[8qetsgjl] [6egc][4qjb][18lm] [80wtsfhl] [5wfx][30hv][18lm] [48qgjc] :9 -
+
+
+
 [Oi]-[uo]-[YIO]-[yi]-[TOu]-[Yt]-[Ory]-[ET]-[%YPt]-O-o-O-[EYt]-W-w-W-[(YOt] [@Tos]-P-p-P-[TYt]-E-W-E-[(TPo] [%YOS]-s-a-s-[(YOt]
 [Os]-a-[Pos]-[Ip]-[Ois]-[uo]-[YIs]-[yi]-[Y8od]-s-a-s-[TYo]-t-E-t-[Ywos] [D5ia]-d-S-d-[Yio]-T-T-T-[wiad] [8osg]-D-d-D-[(tos]
 [Ds]-[ad]-[PSD]-[ps]-[ODa]-[Po]-[IDp]-[Oi]-[@Pog]-D-d-D-[Pio]-Y-y-Y-[EPDo] [^Odh]-g-f-g-[OPo]-i-u-i-[EOdg] [(PDh]-[Hg]-[YJoh]-[Oi]-
