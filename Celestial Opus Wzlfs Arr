@@ -70,13 +70,13 @@ Keybinds : Phrygian Dominant
 - C O D A  4 -
 
 [48qepsgj] [ip] q [8qetip] [ip] [4qs] [ip] [pgj] [4qs] p [oh] [qet] p [4qgj] - 
-[3afhk] [hk] [hk] [hl] [wrahl] [hl] [3afhl] [hl] [hk] [hk] [3afhk] [hk] [wrahj] [hj] [hj] [3afhj] -
+[3afhk] [hk] [hk] [hk] [wrahl] [hl] [3afhl] [hl] [hk] [hk] [3afhk] [hk] [wrahj] [hj] [hj] [3afhj] -
 [2dhk] - [qeiyp] - 6 [2d] [yip] 6 [2d] [yip] [qey] 6 [2yipd] -
 [1sgj] [gj] [gj] [gj] [wtfh] [fh] [135fh] [fh] [gj] [gj] [gj] [7r] [gj] [6efh] [fh] [5wfh] [fh] 
 [4qpsgj] [ip] q [8qetip] [ip] [4qs] [ip] [pgj] [4qs] p [qetoh] q p [4qgj] -
 [3afhk] [uo] w [70wrua] [uo] [3af] [uo] [hk] [3af] [uo] [pj] [wra] [uo] [3oafh] - 
 [2pdgj] [yip] q [69qeyp] [yip] [2d] [yip] [pgj] [2d] [yip] [oh] [qe] [yip] [2yidg] -
-[1usf] [uf] [uf] [uf] [wtig] [ig] [135ig] [ig]  [7roh] [oh] [oh] [6e] [oh] [oh] [5w] [pj] [pj] [pj] [pj] -
+[1usf] [uf] [uf] [uf] [wtig] [ig] [135ig] [ig]  [7roh] [oh] [oh] [6eoh] [oh] [5wpj] [pj] [pj] [pj] -
 
 - E N D -
 
@@ -85,7 +85,7 @@ Keybinds : Phrygian Dominant
 [29] -- [qeyip] - 9 2 9 9 2 9 [qeyip] 9 2 
 [18] -- [wtuo] 8 1 | [7r] - [6e] - [5w] [6e] 
 [4q] -- [qetip] 8 [4q] 8 8 [4q] 8 - [qetip] 8 4
-[30] [wruoa] - 0 [3u] i [3u] y [wruoa] - [3i] 0
+[30] [wruoa] - 0 3 u i [3u] y [wruoa] - [3i] 0
 [2yid] -- [qeyip] - 9 [2d] 9 9 [2d] 9 [qeyip] - [2d] 9
 [18uos] -- [8wtuo] 8  1 - [7r] - [6e] - [5w] - [6e] -
 [48q] 
