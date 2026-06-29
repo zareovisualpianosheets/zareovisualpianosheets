@@ -1,12 +1,14 @@
 Title = "New Birth"
-Category = "Classical"
-Uploader : ZareoKeyboard ( sonbayacc323422 )
-Artist : Hayato Sumino
-Difficulty : Insane
-BPM : 180
-Transpose by: 0 
+Category = "Contemporary Classical"
+BPM = "180"
+Artist = "Hayato Sumino"
+Uploader = "sonbayacc323422"
+Difficulty = "Insane"
+Autoplayer = "True"
+Other = ",
+///
 
-Tempo: 180 BPM
+Transpose by: 0 
 
 [18]-8-w-t-u-t-o-s-f-s-h-l-x-l-v-m-:o-m-v-l-x-l-h-s-f-s-o-t-u-t-w-8-
 [18]-8-W-t-u-t-O-s-f-s-H-l-x-l-V-m-:o-m-V-l-x-l-H-s-f-s-O-t-u-t-W-8-
@@ -65,13 +67,11 @@ w-r-u-o-a-f-a-o-u-r-w
 [WO]-[tH]-i s-l - f-[ix]-t-W-g-c -
 [wh]-k-[rxv]-u-o-a-f-h-k-x-v-x-k-h-f-a-h-f-a-o-u-r-w-
 [Whkxv]-w-r-u-O-o-a-f-H-h-k-x-v-x-k-h-H-h-k-x-v-x-k-h-H-h-k-L-
-v-x-k-h-H-h-k-x-v-x-k-h-H-h-k-x-v-x-k-h-H-h-k-x -
-
-125% faster - BPM changed to 180
-
+v-x-k-h-H-h-k-x-v-x-k-h-H-h-k-x-v-x-k-h-H-h-k-x-
 [hv] - -- - --
 
 Transpose by: +1 (-9) 
+
 [:4'1uosf]-8-w-t-u-t-o-s-f-s-h-l-x-l-v-m-[o:o]-m-v-l-x-l-h-s-f-s-o-t-u-t-w-8-
 [:4'1]-8-W-t-u-t-O-s-[Of]-s-H-l-x-l-V-m-[s:o]-m-V-l-x-l-H-s-[ydf]-s-O-t-u-t-W-8-
 [:4'1uf]-8-w-t-u-t-o-s-f-s-h-l-x-l-v-m-[wto:o]-m-v-l-x-l-h-s-f-s-o-t-u-t-w-8-
@@ -97,8 +97,5 @@ Transpose by: 0 (-1)
 [:4'1]-8-W-t-u-t-O-s-[WOtif]-s-H-l-x-l-V-m-[Otis:o]-m-V-l-x-l-H-s-[ydf]-s-O-t-u-t-W-8-
 [:4'1uosf]-8-w-t-u-t-o-s-f-s-h-l-x-l-v-m-:o-m-v-l-[shv]-m-:o-m-v-l-v-m-[sh:o]-m-v-l-v-m-:o-m-[shv]-l-v-m-:o-m-v-l-
 x-l-h-s-f-s-o-t-u-t-w-
-
-100% slower - BPM changed to 40
-
 8-
 [:4'1]-
